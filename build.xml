@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="hw4" default="test" basedir=".">
+  <target name="test">
+    <echo message="TODO: Complete this build.xml configuration!"/>
+  </target>
+</project>
